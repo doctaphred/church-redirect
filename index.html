@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Redirecting</title>
+</head>
+<body>
+    <h1>Redirecting</h1>
+    <script>
+        const hangout_locations = [
+            'https://www.google.com',
+            'https://www.youtube.com',
+            'https://en.wikipedia.org'
+        ]
+        window.location.href = hangout_locations[Math.floor(Math.random() * hangout_locations.length)];
+    </script>
+</body>
+</html>
