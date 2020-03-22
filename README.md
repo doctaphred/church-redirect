@@ -1,3 +1,3 @@
-# Church Hangouts Redirect
+# Hangouts Roulette
 
-A very simple github page to randomly sort users into google hangouts.
+Click this link to join a random Google Hangout: https://doctaphred.github.io/hangouts-roulette
